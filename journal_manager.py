@@ -1,7 +1,7 @@
 """
 Personal Journal Manager
 Author: Prince Shah
-Guided by: Girish Sir
+Guided by: Girish Gondaliya
 
 A menu-driven journal application demonstrating Python OOP,
 file handling modes (r, w, a, x), and exception handling.
