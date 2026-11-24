@@ -16,7 +16,7 @@
 <br/>
 
 **Developed by Prince Shah**  
-**Guided by Girish Sir**
+**Guided by Girish Gondaliya**
 
 </div>
 
@@ -101,10 +101,9 @@ Use a clear numbered menu to navigate and exit the program.
 ```text
 Personal_Journal_Manager/
 │
-├── main.py          # Main application and JournalManager class
+├── journal_manager.py          # Main application and JournalManager class
 ├── journal.txt      # Journal data (created automatically)
 ├── README.md        # Project documentation
-└── .gitignore       # Git ignore configuration
 ```
 
 ## 📁 File Handling Modes
@@ -147,7 +146,7 @@ cd Personal-Journal-Manager
 ### 4. Run the Application
 
 ```bash
-python main.py
+python journal_manager.py
 ```
 
 The `journal.txt` file is created automatically the first time the application runs.
@@ -270,7 +269,7 @@ By completing this project, the following practical skills are demonstrated:
 | Application Type | Console-based |
 | Storage | `journal.txt` |
 | Author | **Prince Shah** |
-| Guided By | **Girish Sir** |
+| Guided By | **Girish Gondaliya** |
 
 ---
 
